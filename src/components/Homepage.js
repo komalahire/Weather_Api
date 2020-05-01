@@ -61,7 +61,7 @@ export class Homepage extends Component {
 
 export default withStyles({
   root: {
-    marginLeft: "25%",
+    
     marginTop: "2%",
   },
   input: {
